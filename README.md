@@ -18,3 +18,4 @@ const countDownDate = new Date('2018-10-19T23:00:00.000Z').getTime();
         }
       }, 1000);
     });
+// use this code for suitable angular cases.
